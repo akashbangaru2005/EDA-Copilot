@@ -1,0 +1,30 @@
+[
+  {
+    "id": "INC-001",
+    "error": "OpenSTA cannot find liberty file",
+    "root_cause": "No matching historical incident found. The error requires fresh analysis.",
+    "fix": "Check the EDA tool configuration, input files, file paths, libraries, and timing constraints.",
+    "success": true
+  },
+  {
+    "id": "INC-002",
+    "error": "OpenSTA unable to locate liberty file",
+    "root_cause": "No matching historical incident found. The error requires fresh analysis.",
+    "fix": "Check the EDA tool configuration, input files, file paths, libraries, and timing constraints.",
+    "success": true
+  },
+  {
+    "id": "INC-003",
+    "error": "Cannot find standard.lib in OpenSTA",
+    "root_cause": "No matching historical incident found. The error requires fresh analysis.",
+    "fix": "Check the EDA tool configuration, input files, file paths, libraries, and timing constraints.",
+    "success": true
+  },
+  {
+    "id": "INC-004",
+    "error": "OpenSTA cannot find liberty file",
+    "root_cause": "No matching historical incident found. The error requires fresh analysis.",
+    "fix": "Check the EDA tool configuration, input files, file paths, libraries, and timing constraints.",
+    "success": true
+  }
+]
